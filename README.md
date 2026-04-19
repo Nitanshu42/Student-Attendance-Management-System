@@ -1,7 +1,7 @@
     # Role-Based Student Attendance Management System
 
-    ![Project Demo](PLACEHOLDER_FOR_YOUR_GIF.gif)
-    *(Replace `PLACEHOLDER_FOR_YOUR_GIF.gif` with the actual path or URL to your demo GIF)*
+    ![Project Demo](demo.gif)
+    
 
     ## 📖 Project Overview
     The **Role-Based Student Attendance Management System** is a lightweight, modern, and user-friendly desktop application developed in Java. It eliminates the need for complicated database setups by utilizing an Excel-based local database for easy management and immediate portability. 
