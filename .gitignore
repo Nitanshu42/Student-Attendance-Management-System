@@ -1,0 +1,7 @@
+out/
+*.class
+.vscode/
+.idea/
+*.log
+scratch/
+college_data.xlsx
